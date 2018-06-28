@@ -32,6 +32,7 @@ public class LittleQuiz {
 		if (score == 300)
 			System.out.println("Congratulations! You won the quiz! Hurray");		
 
+	sc = null;
 	}
 }
 
