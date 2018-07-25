@@ -14,5 +14,9 @@ public class arrays1 {
 				System.out.print("\n");
 			System.out.print(numbers[i] + " ");
 		}
+		test();
+	}
+	public static void test() {
+		System.out.println("TEST");
 	}
 }
